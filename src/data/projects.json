@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "CSS Playground",
+    "synopsis": "An app that allows users to experiment with CSS properties and see the results in real-time.",
+    "image": "",
+    "link": ""
+  },
+  {
+    "id": 2,
+    "name": "Coming Soon Project",
+    "synopsis": "",
+    "image": "/images/taskmanager.png",
+    "link": ""
+  }
+]
