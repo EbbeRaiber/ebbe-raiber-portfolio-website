@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "name": "CSS Playground",
-    "synopsis": "An app that allows users to experiment with CSS properties and see the results in real-time.",
+    "name": "Pokemon Guessing Game",
+    "synopsis": "A fun web-based game where players guess the name of a Pokémon based on its silhouette. Built with React and TypeScript, it features multiple generations of Pokémon and allows users to select which generations to include in the game.",
     "image": "",
-    "link": ""
+    "link": "/pokemon-game"
   },
   {
     "id": 2,
