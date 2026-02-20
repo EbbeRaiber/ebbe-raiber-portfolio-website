@@ -42,6 +42,9 @@ export default function Game() {
     if (guessCount === MAX_GUESSES) {
       return;
     }
+    if (revealed || result === "correct") {
+      return;
+    }
 
     if (guess.trim().toLowerCase() === currentPokemon.toLowerCase()) {
       setResult("correct");
